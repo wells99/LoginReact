@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Helvetica;
+    box-sizing: border-box;
+    text-shadow: #000000 1px 1px;
+}
+
+.App{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url("assets/ponte.svg");
+    background-size: cover;
+    background-position: center;
+}
